@@ -42,7 +42,7 @@ Licença: MIT
 
 Dependência: Requer o núcleo do Bootstrap 3.x para funcionar corretamente.
 
-Como você trabalha com stacks modernas (Java 21, Spring Boot, Angular 19), o uso desta biblioteca sugere a 
+Stacks modernas (Java 21, Spring Boot, Angular 19), o uso desta biblioteca sugere a 
 manutenção de um painel administrativo legado ou uma integração que ainda utiliza o ecossistema Bootstrap 3.
 
 Dica de Especialista: Se estiver modernizando este projeto, considere a migração para o Bootstrap 5 ou 
